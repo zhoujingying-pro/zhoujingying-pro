@@ -14,10 +14,4 @@ Student at the [University of Melbourne](https://www.unimelb.edu.au/). Intereste
 - **CFTR viewer** — human CFTR (P13569), 6MSM / 5UAK, HDR vs Prime editing for F508del
 - **Tiny game agents** — sub-1MB 2048; a small RAM-reading policy for Pokémon Red
 
-## Selected awards
-
-- EPQ A* (2025)
-- Intermediate Biology Olympiad — global silver (2024)
-- UKChO silver · BPhO Senior Physics Challenge silver · Brain Bee (2025)
-
 `Python` `PyTorch` `structural biology` `CRISPR`
