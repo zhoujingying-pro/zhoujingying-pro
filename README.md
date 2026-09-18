@@ -1,6 +1,6 @@
-# Jingying Zhou · 周婧颖
+# University of Melbourne
 
-Student at the [University of Melbourne](https://www.unimelb.edu.au/). Interested in **biology × computation**: gene editing, protein structure, and tiny models that learn to act.
+Interested in **biology × computation**: gene editing, protein structure, and tiny models that learn to act.
 
 ## Focus
 
